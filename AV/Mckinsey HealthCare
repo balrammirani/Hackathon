@@ -1,0 +1,5 @@
+The aim is to predict the probability of stroke happening to their patients. This will help doctors take proactive health measures for these patients.
+
+Leaderboard : 
+Public : 0.8313386088 (177/584)Rank
+Private : 0.8534415154 (98/584)
